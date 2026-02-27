@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="chip_primary_bg">#5c7162</color>
+    <color name="chip_primary_text">#FFFFFFFF</color>
+    <color name="chip_secondary_bg">#FFFFFFFF</color>
+    <color name="chip_secondary_text">#FF000000</color>
+    <color name="chip_secondary_border">#33000000</color>
+</resources>
